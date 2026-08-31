@@ -1,4 +1,4 @@
-# 3-D Underwater Acoustic Field Prediction — A Demo
+# 3D Underwater Acoustic Field Prediction — A Demo
 
 This repository is a self-contained GitHub demonstration of a conditional CNN for 3-D transmission-loss (TL) field prediction.
 
