@@ -42,7 +42,7 @@ config.py            data geometry and year split
 synthetic_data.py    synthetic SSP and TL generator
 eofk.py              EOF, K-means, nearest-neighbor mapping, geo-steady fields
 dataset.py           PyTorch Dataset and background-field assignment
-model.py             unchanged CNN architecture
+model.py             CNN architecture
 losses.py            original mixed loss
 train_utils.py       training-only normalization and utility functions
 my_functions.py      original helper functions
